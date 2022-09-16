@@ -1,0 +1,44 @@
+{
+    "editor.formatOnPaste": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "editor.tabSize": 4,
+    "editor.renderLineHighlight": "gutter",
+    "terminal.integrated.fontSize": 14,
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "emmet.includeLanguages": {
+        "javacript": "javascriptreact"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "breadcrumbs.enabled": true,
+    "editor.parameterHints.enabled": false,
+    "workbench.iconTheme": "vscode-icons",
+    "vsicons.dontShowNewVersionMessage": true,
+    "git.autofetch": true,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.enableSmartCommit": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "prettier.endOfLine": "auto",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "gitlens.advanced.messages": {
+        "suppressGitMissingWarning": true
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "git.confirmSync": false,
+    "terminal.integrated.fontWeight": "normal",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Visual Studio Dark",
+}
